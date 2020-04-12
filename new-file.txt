@@ -1,0 +1,2 @@
+new-file.txt
+This is a new file in a new branch
